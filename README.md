@@ -3,6 +3,10 @@
 **Wanderlust** is a full-stack web application that allows users to explore travel destinations around the world. Users can browse through destinations, view details, and add their own favorite places. It’s designed to inspire people to travel and discover new locations.
 
 ---
+## 🌐 Demo
+
+Check out the live demo of **Wanderlust** here: [Live Demo](https://wanderlust-8kja.onrender.com/listings)
+---
 
 ## ✨ Features
 
@@ -44,8 +48,4 @@
 - Geocoding and location APIs
 - File uploads and cloud storage
 
----
 
-## 🌐 Demo
-
-Check out the live demo of **Wanderlust** here: [Live Demo](https://wanderlust-8kja.onrender.com/listings)
