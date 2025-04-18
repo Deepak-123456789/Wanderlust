@@ -32,12 +32,6 @@ Check out the live demo of **Wanderlust** here: [Live Demo](https://wanderlust-8
 - Express.js
 - MongoDB with Mongoose
 
-### 🔌 APIs & Libraries
-- 📍 LocationIQ API (Forward Geocoding)
-- 🖼️ Multer (Image upload)
-- ☁️ Cloudinary (Image hosting)
-- 🔐 Passport.js (Authentication)
-
 ---
 
 ## 🧠 Concepts Used
