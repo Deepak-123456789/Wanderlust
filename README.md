@@ -43,4 +43,8 @@ Check out the live demo of **Wanderlust** here: [Live Demo](https://wanderlust-8
 - Geocoding and location APIs
 - File uploads and cloud storage
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
